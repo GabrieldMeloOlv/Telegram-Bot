@@ -4,7 +4,7 @@ from telebot import types
 import requests
 
 
-bot = telebot.TeleBot('7011820831:AAH6IIWHSrEEP_0KIxT2LK1wJ5_RseLVrSY')
+bot = telebot.TeleBot('SEU TOKEN')
 
 # /start
 @bot.message_handler(commands=['start', 'help'])
