@@ -23,7 +23,7 @@ def list_commands(message):
         "/loja – Confira nossos produtos oficiais\n"
         "/contato – Entre em contato com a FURIA\n"
         "/ultimo_jogo - Veja a última partida da FURIA\n"
-        "/palpite - Dê seu palpite sobre o jogo"
+        "/palpite - Dê seu palpite sobre o jogo!"
     )
 
 # /quem_somos
